@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ignacio-joaquin
-- 👀 I’m interested in lots of topics, i'm very young and looking for my place in te world
+- 👀 I’m interested in lots of topics, i'm very young and looking for my place in the world
 - 🌱 I’m currently learning anything that looks fun or interesting
 - 🇦🇷 Argentina is the best country ever
 - 📫 You can send me a dm at @http_igj in twitter
