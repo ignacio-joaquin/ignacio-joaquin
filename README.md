@@ -59,6 +59,14 @@
 </div>
 
 ###
+ <p align="center">Currently focused on:
+
+    Systems programming, including embedded development and performance optimization.
+    Game development and AI projects, especially with a focus on strategy and simulation.
+    Building tools and applications that combine low-level control with high-level logic.
+
+I’m always learning and looking for new, cool technologies to explore. Feel free to check out my projects or collaborate!</p>
+###
 
 <p align="center">💬💬 Got questions, feedback, or just want to share some memes?</p>
 
@@ -90,10 +98,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6vehymc4hzk2wmqnwsyz8olpd&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ignacio-joaquin/ignacio-joaquin/output/snake.svg" alt="Snake animation" />
 
 ###
 
