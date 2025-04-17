@@ -61,9 +61,7 @@
 ###
  <p align="center">Currently focused on:
 
-    Systems programming, including embedded development and performance optimization.
-    Game development and AI projects, especially with a focus on strategy and simulation.
-    Building tools and applications that combine low-level control with high-level logic.
+    Systems programming with a focus on backend development, performance optimization, and scalable architecture. Passionate about building robust APIs, data pipelines, and infrastructure that balances low-level efficiency with high-level design. Enjoy creating tools and services that are maintainable, testable, and built for real-world usage at scale.
 
 I’m always learning and looking for new, cool technologies to explore. Feel free to check out my projects or collaborate!</p>
 ###
