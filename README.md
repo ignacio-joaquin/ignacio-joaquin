@@ -58,12 +58,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
 </div>
 
-###
- <p align="center">Currently focused on:
+###  
+<p align="center">
+<pre style="white-space: pre-wrap; font-family: monospace;">
+Currently focused on:
 
-    Systems programming with a focus on backend development, performance optimization, and scalable architecture. Passionate about building robust APIs, data pipelines, and     infrastructure that balances low-level efficiency with high-level design. Enjoy creating tools and services that are maintainable, testable, and built for real-world        usage at scale.
+Systems programming with a focus on backend development, performance optimization, and scalable architecture. 
+Passionate about building robust APIs, data pipelines, and infrastructure that balances low-level efficiency with high-level design. 
+Enjoy creating tools and services that are maintainable, testable, and built for real-world usage at scale.
 
-I’m always learning and looking for new, cool technologies to explore. Feel free to check out my projects or collaborate!</p>
+I’m always learning and looking for new, cool technologies to explore. Feel free to check out my projects or collaborate!
+</pre>
+</p>
+
 ###
 
 <p align="center">💬💬 Got questions, feedback, or just want to share some memes?</p>
